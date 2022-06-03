@@ -1,8 +1,11 @@
 pipeline {
     agent any 
+   }
+      stage("git clone")
 
-  stages { 
-    stage("git clone") 
+    
+  
+ 
    
-    }
-  }   
+   
+
