@@ -1,9 +1,9 @@
 pipeline { 
     agent any  
     stages { 
-        stage('Build') { 
+        stage('git clone') { 
             steps { 
-               echo 'This is a minimal pipeline.' 
+               sh 'git clone 
             }
         }
     }
