@@ -5,7 +5,10 @@ pipeline {
             steps { 
                sh 'git clone https://github.com/Basireddy143/spring-petclinic.git'
             }
-        }
+        } 
+        stage('build') { 
+            sh 'mvn clean install'
+            }
     }
 }
 
