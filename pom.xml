@@ -9,9 +9,15 @@
     <snapshotRepository>
         <id>snapshots</id>
         <name>ip-172-31-84-101.ec2.internal-snapshots</name>
-        <url>http://44.201.148.151:8081/artifactory/libs-snapshot-local</url>
+        <url>http://54.152.83.246:8081/artifactory/libs-snapshot-local</url>
     </snapshotRepository>
 </distributionManagement>
+
+     
+       
+    
+
+
   
   <parent>
     <groupId>org.springframework.boot</groupId>
