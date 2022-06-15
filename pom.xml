@@ -8,8 +8,8 @@
 <distributionManagement>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>ip-172-31-84-101.ec2.internal-snapshots</name>
-        <url>http://54.166.231.151:8082/artifactory/libs-snapshot-local</url>
+        <name>ip-172-31-26-174.ec2.internal-snapshots</name>
+        <url>http://34.207.208.199:8081/artifactory/libs-snapshot-local</url>
     </snapshotRepository>
 </distributionManagement>
 
